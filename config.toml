@@ -1,4 +1,4 @@
-baseurl = "http://bostondevops.org/"
+baseurl = "http://dustinmm80.github.io/bostondevops_org/"
 languageCode = "en-us"
 title = "bostondevops.org"
 theme = "landing-page-hugo"
