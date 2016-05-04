@@ -2,6 +2,8 @@ baseurl = "http://dustinmm80.github.io/bostondevops_org/"
 languageCode = "en-us"
 title = "bostondevops.org"
 theme = "landing-page-hugo"
+canonifyurls: true
+
 [params]
   description = "Home of the Boston DevOps Meetup"
 
